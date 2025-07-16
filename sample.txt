@@ -1,0 +1,21 @@
+de> save and quit -> ctrl d
+
+
+eg: ls -lrt > ls.out
+    cat /etc/os-release > os.txt
+    date >> date.log
+
+-----------------------------------------------------------------------------------------------------------------------------
+17.  How to delete the files and directories?
+     command: rm filename            // remove file
+              rm -i filename         // -i confirmation y/n
+              rm -f filename         // -f forcefully without confirmation 
+  
+              rmdir testdir          // removes empty directory
+              rm -rf dir1            // Remove main directory, sub directories and files
+
+              rm -rf *                // * means everything 
+
+              rm -rf /opt/data        // delete data directory and content inside data directory
+              rm -rf /opt/data/*      // delete content inside data directory but not data directory
+-r recursive
