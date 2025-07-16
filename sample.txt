@@ -1,4 +1,4 @@
-eg: hotfix/hotfix_name , hotfix/ticket_name etc
+
 
 Apart from these branches, we can have any naming convention branches as per our requirement.
 
