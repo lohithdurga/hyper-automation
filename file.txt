@@ -1,0 +1,27 @@
+commit 8f25a04b4169569a878c284d778d5b028f0115cd (HEAD -> main)
+Author: Super User <root@ip-172-31-6-135.ap-south-1.compute.internal>
+Date:   Wed Jul 16 16:12:37 2025 +0000
+
+    add to git
+
+commit 1a5a363d4906c93b9685dfe838a8278c9b2ff022 (origin/main, origin/HEAD)
+Author: Lohith Durga Bharath <lohithbro3@gmail.com>
+Date:   Wed Jul 16 12:16:19 2025 +0530
+
+    Delete sample.txt
+
+commit c524650a3d57b21d861c5340d41732d328678b94
+Author: Lohith Durga Bharath <lohithbro3@gmail.com>
+Date:   Wed Jul 16 12:15:28 2025 +0530
+
+    Update sample.txt
+
+commit 9285d595626815150d2bb93a3b7e5a76647d8fb3
+Author: Lohith Durga Bharath <lohithbro3@gmail.com>
+Date:   Wed Jul 16 12:07:47 2025 +0530
+
+    Create sample.txt
+
+commit 4d80d508f2b6ba6d12fde7abcee39dce9316350c (tag: Z1.0)
+Author: lohithdurga <lohithbro3@gmail.com>
+Date:   Tue Jul 15 12:05:24 2025 +0530
